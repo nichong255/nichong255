@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @nichong255
-- 👀 I’m interested in cloud
-- 🌱 I’m currently learning aws
+- 👀 I’m interested in play
+- 🌱 I’m currently learning readme
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
